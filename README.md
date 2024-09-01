@@ -25,3 +25,12 @@
 
    ## Usage
    Run the main script:
+
+    ## Prediction Results
+
+   ### Bitcoin Price Prediction
+   ![bitcoin_prediction](https://github.com/user-attachments/assets/2eba3222-3592-429b-a230-0e42a96535ba)
+
+   ### Ethereum Price Prediction
+   ![ethereum_prediction](https://github.com/user-attachments/assets/7a4abefd-25ad-4812-9e61-18de45df53df)
+
