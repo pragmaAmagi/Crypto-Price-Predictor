@@ -34,3 +34,10 @@
    ### Ethereum Price Prediction
    ![ethereum_prediction](https://github.com/user-attachments/assets/7a4abefd-25ad-4812-9e61-18de45df53df)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- CoinGecko API for providing cryptocurrency data
